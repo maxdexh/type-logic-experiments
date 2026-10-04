@@ -1,0 +1,10 @@
+[package]
+name = "type-logic-experiments"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+macro_rules_attribute = "0.2.3"
+
+[features]
+lambda-tests = []
